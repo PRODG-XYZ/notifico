@@ -12,7 +12,7 @@ async-trait = "0.1.84"
 tracing = "0.1.41"
 uuid = { workspace = true }
 thiserror = "2.0.9"
-tokio = { version = "1.42.0", features = ["fs"] }
+tokio = { version = "1.43.1", features = ["fs"] }
 toml = "0.8.19"
 anyhow = "1.0.95"
 utoipa = "5.3.1"
